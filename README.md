@@ -1,13 +1,13 @@
 # Scrollable 3D Animation with Three.js
 
-Portfolio website created using Three.js .
+Portfolio website created using Three.js and React.js.
 
 ## Usage
 
 ```
 git clone <this-repo>
 npm install
-npm run dev
+npm start
 ```
 
 ## Acknowledgement
