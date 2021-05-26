@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3a959672.chunk.css",
+    "main.js": "./static/js/main.6705cabd.chunk.js",
+    "main.js.map": "./static/js/main.6705cabd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0396ec40.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0396ec40.js.map",
+    "static/js/2.b21291e5.chunk.js": "./static/js/2.b21291e5.chunk.js",
+    "static/js/2.b21291e5.chunk.js.map": "./static/js/2.b21291e5.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3a959672.chunk.css.map": "./static/css/main.3a959672.chunk.css.map",
+    "static/js/2.b21291e5.chunk.js.LICENSE.txt": "./static/js/2.b21291e5.chunk.js.LICENSE.txt",
+    "static/media/moon.a2edaf85.jpg": "./static/media/moon.a2edaf85.jpg",
+    "static/media/normal.573c0a93.jpg": "./static/media/normal.573c0a93.jpg",
+    "static/media/satyam.33e58648.jpeg": "./static/media/satyam.33e58648.jpeg",
+    "static/media/space.80687b01.jpg": "./static/media/space.80687b01.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0396ec40.js",
+    "static/js/2.b21291e5.chunk.js",
+    "static/css/main.3a959672.chunk.css",
+    "static/js/main.6705cabd.chunk.js"
+  ]
+}
